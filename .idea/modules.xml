@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignOK/DesignOK.iml" filepath="$PROJECT_DIR$/DesignOK/DesignOK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson7-1TabLayout.iml" filepath="$PROJECT_DIR$/Lesson7-1TabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.baidumap/com.baidumap.iml" filepath="$PROJECT_DIR$/com.baidumap/com.baidumap.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">材料设计综合案例完整版</string>
+    <string name="menu_settings">设置</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+</resources>

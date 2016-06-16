@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson7-1</string>
+    <string name="single_1">单选1</string>
+    <string name="single_2">单选2</string>
+    <string name="single_3">单选3</string>
+    <string name="normal_1">普通项1</string>
+    <string name="normal_2">Tab案例</string>
+</resources>
